@@ -3,7 +3,6 @@ import { useEffect, useMemo, useState } from "react";
 import classes from "./ImageMatting.module.css";
 import { useImageMatting } from "./ImageMattingContext";
 import { ReactComponent as ChevronLeftIcon } from "./icons/ChevronLeft.svg";
-import { ReactComponent as EditIcon } from "./icons/Edit.svg";
 import { ReactComponent as SpinnerIcon } from "./icons/Spinner.svg";
 import { ReactComponent as UploadIcon } from "./icons/Upload.svg";
 
@@ -135,10 +134,10 @@ function ImageMatting({ openEditor }) {
               src={imageUrl}
               alt={"Processed Image"}
             />
-            <button className={classes.primary} onClick={() => openEditor()}>
+            {/* <button className={classes.primary} onClick={() => openEditor()}>
               <EditIcon /> Edit in CE.SDK
-            </button>
-            <a href={imageUrl} download>
+            </button> */}
+            <a href={imageUrl} download style={{ textAlign: "center" }}>
               Download
             </a>
           </>
