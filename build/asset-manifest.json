@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34d00c8a.css",
+    "main.js": "/static/js/main.f3fdb480.js",
+    "static/media/IBMPlexSans-SemiBold.ttf": "/static/media/IBMPlexSans-SemiBold.f2e690b59fb90d236c08.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/static/media/IBMPlexSans-Medium.56fb541cbbc5462f1c33.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/GTWalsheimPro-Bold.ttf": "/static/media/GTWalsheimPro-Bold.2dbf49e9fcb548837711.ttf",
+    "static/media/GTWalsheimPro-Black.ttf": "/static/media/GTWalsheimPro-Black.2dc24aec84cddc57c649.ttf",
+    "static/media/GTWalsheimPro-Black.woff": "/static/media/GTWalsheimPro-Black.d1a05b37fac1e43eae61.woff",
+    "static/media/GTWalsheimPro-Bold.woff": "/static/media/GTWalsheimPro-Bold.6ead5fc9d23b21a10d0a.woff",
+    "static/media/GTWalsheimPro-Black.woff2": "/static/media/GTWalsheimPro-Black.3fa5ee7f8e647720d2fb.woff2",
+    "static/media/GTWalsheimPro-Bold.woff2": "/static/media/GTWalsheimPro-Bold.6b113f6b3bd165884e16.woff2",
+    "static/media/Edit.svg": "/static/media/Edit.2543cdab6b9c797f82bb50d58e2b6f66.svg",
+    "index.html": "/index.html",
+    "static/media/Upload.svg": "/static/media/Upload.17a46b2d79a164cfc0d146b5a00d060c.svg",
+    "static/media/Spinner.svg": "/static/media/Spinner.e8dae86011640ce2de7ac46bc4c31b56.svg",
+    "static/media/ChevronLeft.svg": "/static/media/ChevronLeft.32176b0457c7118ba1dbb28df737e72f.svg",
+    "main.34d00c8a.css.map": "/static/css/main.34d00c8a.css.map",
+    "main.f3fdb480.js.map": "/static/js/main.f3fdb480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d00c8a.css",
+    "static/js/main.f3fdb480.js"
+  ]
+}
